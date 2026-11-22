@@ -1,4 +1,4 @@
-package com.example;
+package com.rcyz.tradetweaks;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
